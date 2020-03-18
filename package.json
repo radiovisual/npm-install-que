@@ -35,11 +35,12 @@
     "time"
   ],
   "dependencies": {
-    "chalk": "^1.1.1",
+    "chalk": "^2.0.0",
     "cross-spawn-async": "^2.1.9",
     "native-promise-only": "^0.8.1",
     "object-assign": "^4.0.1",
-    "pkg-up": "^1.0.0"
+    "pkg-up": "^1.0.0",
+    "strip-ansi": "^6.0.0"
   },
   "devDependencies": {
     "ava": "^0.11.0",
